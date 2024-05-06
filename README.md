@@ -1,0 +1,2 @@
+# pokedex
+Landing Page Sederhana
